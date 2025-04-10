@@ -98,11 +98,11 @@ The system is restricted to:
 
 ### Homepage
 
-![home1](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/e8d3393b435a591c8003293ee373da61fe160fdb/ss/Screenshot%202025-04-10%20214445.png)![home2](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/e8d3393b435a591c8003293ee373da61fe160fdb/ss/Screenshot%202025-04-10%20214505.png)![home3](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/e8d3393b435a591c8003293ee373da61fe160fdb/ss/Screenshot%202025-04-10%20214523.png)![home4](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/e8d3393b435a591c8003293ee373da61fe160fdb/ss/Screenshot%202025-04-10%20214545.png)![home5](https://i.imgur.com/3hwj34h.png)![home6](https://i.imgur.com/CZr1yOm.png)
+![home1](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/e8d3393b435a591c8003293ee373da61fe160fdb/ss/Screenshot%202025-04-10%20214445.png)![home2](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/e8d3393b435a591c8003293ee373da61fe160fdb/ss/Screenshot%202025-04-10%20214505.png)![home3](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/e8d3393b435a591c8003293ee373da61fe160fdb/ss/Screenshot%202025-04-10%20214523.png)![home4](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/e8d3393b435a591c8003293ee373da61fe160fdb/ss/Screenshot%202025-04-10%20214545.png)
 
 ### Account Login
 
-![User-login](https://i.imgur.com/bulZQOQ.png)
+![User-login](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/e8d3393b435a591c8003293ee373da61fe160fdb/ss/Screenshot%202025-04-10%20214722.png)
 
 ### 1. Patients
 
