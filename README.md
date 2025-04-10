@@ -108,15 +108,11 @@ The system is restricted to:
 
 #### Registration
 
-![Patient-registration](https://i.imgur.com/ttCATae.png)
-
-#### Terms & Conditions
-
-![Terms-conditions](https://i.imgur.com/o9PIXrS.png)
+![Patient-registration](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/48039daaac7050c14f6823f4985efdcbd916ed87/ss/Screenshot%202025-04-10%2021593.png)
 
 #### Patient Login (Student)
 
-![Student-patient-login](https://i.imgur.com/cwHoc1r.png)
+![Student-patient-login](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/48039daaac7050c14f6823f4985efdcbd916ed87/ss/Screenshot%202025-04-10%20220655.png)
 
 #### Reset Password
 
