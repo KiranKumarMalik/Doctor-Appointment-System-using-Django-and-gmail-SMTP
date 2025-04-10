@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (newTheme === 'dark') {
             logo.innerHTML = ''; // Clear previous content
             const img = document.createElement('img');
-            img.src = "/static/appoint_app/images/appoint-master-logo-dark.png"; // Adjust the URL accordingly
+            img.src = "/static/appoint_app/images/appointment_doctor.png"; // Adjust the URL accordingly
             logo.appendChild(img);
 
             const h2 = document.createElement('h2');
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
         } else {
             logo.innerHTML = ''; // Clear previous content
             const img = document.createElement('img');
-            img.src = "/static/appoint_app/images/appoint-master-logo.png"; // Adjust the URL accordingly
+            img.src = "/static/appoint_app/images/appointment_doctor.png"; // Adjust the URL accordingly
             logo.appendChild(img);
 
             const h2 = document.createElement('h2');
@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (savedTheme === 'dark') {
             logo.innerHTML = ''; // Clear previous content
             const img = document.createElement('img');
-            img.src = "/static/appoint_app/images/appoint-master-logo-dark.png"; // Adjust the URL accordingly
+            img.src = "/static/appoint_app/images/appointment_doctor.png"; // Adjust the URL accordingly
             logo.appendChild(img);
 
             const h2 = document.createElement('h2');
@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', function () {
         } else {
             logo.innerHTML = ''; // Clear previous content
             const img = document.createElement('img');
-            img.src = "/static/appoint_app/images/appoint-master-logo.png"; // Adjust the URL accordingly
+            img.src = "/static/appoint_app/images/appointment_doctor.png"; // Adjust the URL accordingly
             logo.appendChild(img);
 
             const h2 = document.createElement('h2');
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // Default logo for light theme
         logo.innerHTML = ''; // Clear previous content
         const img = document.createElement('img');
-        img.src = "/static/appoint_app/images/appoint-master-logo.png"; // Adjust the URL accordingly
+        img.src = "/static/appoint_app/images/appointment_doctor.png"; // Adjust the URL accordingly
         logo.appendChild(img);
 
         const h2 = document.createElement('h2');
