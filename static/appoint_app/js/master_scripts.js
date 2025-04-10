@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
             logo.appendChild(img);
 
             const h2 = document.createElement('h2');
-            h2.innerHTML = '<span class="logo-name">Appoint</span>Master';
+            h2.innerHTML = '<span class="logo-name">Doctor</span>Appoint';
             logo.appendChild(h2);
         } else {
             logo.innerHTML = ''; // Clear previous content
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
             logo.appendChild(img);
 
             const h2 = document.createElement('h2');
-            h2.innerHTML = '<span class="logo-name">Appoint</span>Master';
+            h2.innerHTML = '<span class="logo-name">Doctor</span>Appoint';
             logo.appendChild(h2);
         }
 
@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
             logo.appendChild(img);
 
             const h2 = document.createElement('h2');
-            h2.innerHTML = '<span class="logo-name">Appoint</span>Master';
+            h2.innerHTML = '<span class="logo-name">Doctor</span>Appoint';
             logo.appendChild(h2);
         } else {
             logo.innerHTML = ''; // Clear previous content
@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function () {
             logo.appendChild(img);
 
             const h2 = document.createElement('h2');
-            h2.innerHTML = '<span class="logo-name">Appoint</span>Master';
+            h2.innerHTML = '<span class="logo-name">Doctor</span>Appoint';
             logo.appendChild(h2);
         }
     } else {
@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function () {
         logo.appendChild(img);
 
         const h2 = document.createElement('h2');
-        h2.innerHTML = '<span class="logo-name">Appoint</span>Master';
+        h2.innerHTML = '<span class="logo-name">Doctor</span>Appoint';
         logo.appendChild(h2);
     }
 
