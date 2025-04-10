@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+{% load static %}
+{% load tz %}
+<html>
+<head>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+        .center-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+    <script defer src="{% static 'appoint_app/js/date_time.js' %}"></script>
+</head>
+<body>
+    <section class="center-content bg-primary p-1 mb-2 text-white rounded">
+        <div class="logo">
+            <img src="static/appoint_app/images/appointment_doctor.png" width="37" height="37" alt="Logo">
+        </div>
+        <div>
+            <h6 style="font-size: 14.6px">Appointment Details</h6>
+        </div>
+        <div>
+            <h6 style="font-size: 14.6px">Appointment ID: {{ data.0.appoint_id }}</h6>
+        </div>
+        <div class="mb-2">
+            <span id="real-time-clock" style="font-weight: 700; font-size: 14.5px;">
+                {% localtime on %}
+                    {% now "l, F j, Y H:i:s" %}
+                {% endlocaltime %}
+            </span>
+        </div>
+    </section>
+    <table>
+        <thead>
+            <tr>
+                <th>Section</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in data %}
+            <tr>
+                <td><b>Booked</b></td>
+                <td>{{ row.book_time }}</td>
+            </tr>
+            <tr>
+                <td><b>Resolved</b></td>
+                <td>{{ row.resolved_display }}</td>
+            </tr>
+            <tr>
+                <td><b>Appointment Area</b></td>
+                <td>{{ row.appoint_area }}</td>
+            </tr>
+            <tr>
+                <td><b>Patient</b></td>
+                <td>{{ row.patient }}</td>
+            </tr>
+            <tr>
+                <td><b>Patient Type</b></td>
+                <td>{{ row.patient_type }}</td>
+            </tr>
+            <tr>
+                <td><b>Patient Gender</b></td>
+                <td>{{ row.gender }}</td>
+            </tr>
+            <tr>
+                <td><b>Patient Phone</b></td>
+                <td>{{ row.phone_number }}</td>
+            </tr>
+            <tr>
+                <td><b>Patient Email</b></td>
+                <td>{{ row.email }}</td>
+            </tr>
+            <tr>
+                <td><b>Appointed Doctor</b></td>
+                <td>{{ row.appointed_doctor }}</td>
+            </tr>
+            <tr>
+                <td><b>Payment</b></td>
+                <td>{{ row.payment_display }}</td>
+            </tr>
+            <tr>
+                <td><b>Approved</b></td>
+                <td>{{ row.approved }}</td>
+            </tr>
+            <tr>
+                <td><b>Scheduled</b></td>
+                <td>{{ row.scheduled }}</td>
+            </tr>
+            <tr>
+                <td><b>Closed</b></td>
+                <td>{{ row.closed }}</td>
+            </tr>
+            <tr>
+                <td><b>Appointment Status</b></td>
+                <td>{{ row.appoint_status }}</td>
+            </tr>
+            <tr>
+                <td><b>Remarks</b></td>
+                <td>{{ row.doctor_remarks }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+         
+    <style>
+        footer {
+            font-size: 13px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+    <footer class="container-fluid bg-primary fixed-bottom text-white text-bold">
+        <img src="static/appoint_app/images/appointment_doctor.png" width="20" height="20" alt="Logo"> ©
+      2024 Appoint Master, KUHC
+    </footer>
+</body>
+</html>
