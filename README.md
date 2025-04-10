@@ -2,9 +2,7 @@
 
 ## *Doctor Appointment Management System using Django*
 
-[Appoint Master](https://github.com/Lewismwaz/appoint_master)**©** 2024, All Rights Reserved 
-
-<mark>**SEE FULL SYSTEM IMPLEMENTATION VIDEO**</mark>👉 [here](https://drive.google.com/file/d/1ymAbw7n1UYogrRrc1ILahWsgL54yYRdW/view?usp=drivesdk).
+[Appoint Master](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP)**©** 2025, All Rights Reserved 
 
 
 # System Documentation  
