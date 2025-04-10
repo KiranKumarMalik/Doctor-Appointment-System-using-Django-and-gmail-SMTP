@@ -177,9 +177,9 @@ JAZZMIN_SETTINGS = {
     
     'site_logo':"../static/appoint_app/images/appointment_doctor.png",
     "welcome_sign": "Login, Admin!",
-    'site_header':"Appoint Master",
-    'site_brand':"Appoint Master",
-    'copyright':"Appoint Master",
+    'site_header':"Doctor Appointment",
+    'site_brand':"Doctor Appointment",
+    'copyright':"Doctor Appointment",
     "show_sidebar": True,
     }
  
