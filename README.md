@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/ed8bc15f1f6c1988592ead3c361e6ca402f5ab8d/static/appoint_app/images/appointment_doctor.png" alt="appoint-master-dark" width="55" height="55" style="vertical-align: middle;"><span style="font-size: 28px;">Doctor Appointment System </span> </p>
+<h1 align="center"> <img src="https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/ed8bc15f1f6c1988592ead3c361e6ca402f5ab8d/static/appoint_app/images/appointment_doctor.png" alt="appoint-master-dark" width="55" height="55" style="vertical-align: middle;"><span style="font-size: 28px;">Doctor Appointment System </span> </h1>
 
 ## *Doctor Appointment Management System using Django*
 
