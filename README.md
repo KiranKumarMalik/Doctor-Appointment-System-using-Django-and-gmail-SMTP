@@ -243,11 +243,11 @@ The system is restricted to:
 
 #### Admin Profile Update
 
-![update-profile](https://i.imgur.com/m8gpp2X.png)
+![update-profile](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/7248391f655951c2a74978e38e66ed7c2a851c88/ss/Screenshot%202025-04-11%20203312.png)
 
 #### View All Appointments
 
-![admin-view-all-appointments](https://i.imgur.com/1PzxuGK.png)
+![admin-view-all-appointments](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/7248391f655951c2a74978e38e66ed7c2a851c88/ss/Screenshot%202025-04-10%20223357.png)
 
 ##### All Appointments Report
 
