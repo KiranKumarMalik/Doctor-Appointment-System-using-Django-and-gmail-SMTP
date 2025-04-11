@@ -226,18 +226,17 @@ The system is restricted to:
 > [!TIP]
 > You can directly log in as Admin (*Jazzmin Dashboard*) without the whole OTP verification by using the link "http://127.0.0.1:8000/admin/". You'll get the a different login page(as below) where you'll be prompted to enter your *Username* and *Password*; and that's it! You're logged in. Once logged in, you can navigate to the *Main Dashboard* (See other screenshots below).
 
-![jazzmin-login](https://i.imgur.com/9k3JNyK.png)
+![jazzmin-login](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/fe9c98cd766decf4d59e46c80f224e6ccd8bcff8/ss/Screenshot%202025-04-11%20202529.png)
 
 #### Admin Dashboard(s)
 
 ##### (a) Main Dashboard
 
-![admin-dash-dark](https://i.imgur.com/j5jauE0.png)
-![admin-dash-light](https://i.imgur.com/A86Pj3z.png )
+![admin-dash-dark](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/9b5ed98fbc0a60677b2cb6b48484856b586e9468/ss/admin.png)
 
 ##### (b) Jazzmin Dashboard
 
-![jazzmin-dashboard](https://i.imgur.com/9vZDwhj.png)
+![jazzmin-dashboard](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/fe9c98cd766decf4d59e46c80f224e6ccd8bcff8/ss/Screenshot%202025-04-11%20202547.png)
 
 > [!IMPORTANT]
 > To access the Jazzmin dashboard, click the "**Dashboard**" button (top-left of the *Main Dashboard*). To go back to the *Main Dashboard*, click the "**Back to Site**" link (top-left-near-center of the *Jazzmin Dashboard*).
