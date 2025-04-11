@@ -155,19 +155,11 @@ The system is restricted to:
 
 ##### Registration Page
 
-![appoint-registration](https://i.imgur.com/pVIQajc.png)
-![appoint-booking-select-area](https://i.imgur.com/NXvujp6.png)
-![appoint-booking-select-date](https://i.imgur.com/R58dcJW.png)
-
-##### Registration Failed!
-
-![reg-failed1](https://i.imgur.com/3u12Ryw.png)
-![reg-failed2](https://i.imgur.com/6NYXYXx.png)
-![reg-failed3](https://i.imgur.com/63wMBLw.png)
+![appoint-registration](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/5edea235a466d2dc9ede0f2656d29bbe33c1308a/ss/Screenshot%202025-04-10%20221718.png)
 
 ##### Initiate Payment
 
-![initiate-payment](https://i.imgur.com/mMqjLmb.png)
+![initiate-payment](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/5edea235a466d2dc9ede0f2656d29bbe33c1308a/ss/Screenshot%202025-04-10%20221736.png)
 
 ##### Initiate Payment>Confirmed
 
@@ -175,26 +167,21 @@ The system is restricted to:
 
 ##### Initiate Payment>Accepted
 
-![initiate-payment-accepted](https://i.imgur.com/1gVZFvB.png)
+![initiate-payment-accepted](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/5edea235a466d2dc9ede0f2656d29bbe33c1308a/ss/Screenshot%202025-04-10%20221752.png)
 
 ##### Checkout Page
 
-![checkout-page](https://i.imgur.com/7Xsfjww.png)
-
-##### Checkout Page> Enter Mpesa PIN on your Phone
-
-![Enter-mpesa-pin](https://i.imgur.com/FjWNaOT.png)
-![mpesa-message](https://i.imgur.com/zDia6HV.jpeg)
+![checkout-page](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/5edea235a466d2dc9ede0f2656d29bbe33c1308a/ss/Screenshot%202025-04-10%20221820.png)
 
 ##### Payment successful!
 
-![payment-success](https://i.imgur.com/dg9fsu7.png)
+![payment-success](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/5edea235a466d2dc9ede0f2656d29bbe33c1308a/ss/Screenshot%202025-04-10%20221848.png)
 
 #### Payments
 
 ##### View all your Payments
 
-![student-view-payments](https://i.imgur.com/zdAQs02.png)
+![student-view-payments](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/5edea235a466d2dc9ede0f2656d29bbe33c1308a/ss/Screenshot%202025-04-10%20222950.png)
 
 ##### Payments Report
 
