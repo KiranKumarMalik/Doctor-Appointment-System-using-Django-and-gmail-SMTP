@@ -281,7 +281,7 @@ The system is restricted to:
 
 #### Admin registration
 
-![admin-registration](https://i.imgur.com/gK91v2r.png)
+![admin-registration](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/c66a32bbd17ac3d9854b12067e43c0a3ce26de11/ss/Screenshot%202025-04-11%20210852.png)
 
 #### OTP Login History
 
