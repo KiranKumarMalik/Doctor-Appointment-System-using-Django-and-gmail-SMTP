@@ -185,7 +185,7 @@ The system is restricted to:
 
 ##### Payments Report
 
-![student-payments-report](https://i.imgur.com/54iH7aY.png)
+![student-payments-report](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/7bb6fa954d0bb4bcb5f268ae8ebf8df88af46cf0/ss/Screenshot%202025-04-11%20194813.png)
 
 #### Appointments
 
