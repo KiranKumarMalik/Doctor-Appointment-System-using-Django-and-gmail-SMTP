@@ -251,7 +251,7 @@ The system is restricted to:
 
 ##### All Appointments Report
 
-![all-appointments-report-pdf](https://i.imgur.com/bwtXrfD.png)
+![all-appointments-report-pdf](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/c1fc8981a878af140eb09c9304ea701eee6e05f7/ss/Screenshot%202025-04-11%20204138.png)
 
 #### Manage all Appointments
 
