@@ -118,26 +118,26 @@ The system is restricted to:
 
 ##### Forgotten Password-Email
 
-![Reset-email](https://i.imgur.com/a7tFhEk.png)
+![Reset-email](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/96aff9a728a082017d62149b3f16606bc6036341/ss/Screenshot%202025-04-11%20112843.png)
 
 > [!IMPORTANT]  
 > You have to enter an existing email; already registered in the database, otherwise it won't work.
 
 ##### Reset success!
 
-![reset-done](https://i.imgur.com/YfNspex.png)
+![reset-done](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/96aff9a728a082017d62149b3f16606bc6036341/ss/Screenshot%202025-04-11%20112857.png)
 
 ##### Reset link (Email)
 
-![reset-email-link](https://i.imgur.com/Bq6RlCm.png)
+![reset-email-link](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/96aff9a728a082017d62149b3f16606bc6036341/ss/Screenshot%202025-04-11%20112928.png)
 
 ##### Password Reset Page
 
-![password-reset-page](https://i.imgur.com/e7jVMMc.png)
+![password-reset-page](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/96aff9a728a082017d62149b3f16606bc6036341/ss/Screenshot%202025-04-11%20113000.png)
 
 ##### Reset Complete
 
-![reset-complete](https://i.imgur.com/gLXlLuV.png)
+![reset-complete](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/96aff9a728a082017d62149b3f16606bc6036341/ss/Screenshot%202025-04-11%20113016.png)
 
 ##### Expired Reset Link
 
