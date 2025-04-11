@@ -277,7 +277,7 @@ The system is restricted to:
 
 #### Doctor Registration
 
-![doctor-reg](https://i.imgur.com/QWxTd4X.png)
+![doctor-reg](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/c30ca374a1e72c82131a77f815341bdcc770df46/ss/Screenshot%202025-04-10%20215156a.png)
 
 #### Admin registration
 
@@ -285,19 +285,18 @@ The system is restricted to:
 
 #### OTP Login History
 
-![otp-login-history](https://i.imgur.com/239mHcH.png)
+![otp-login-history](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/c30ca374a1e72c82131a77f815341bdcc770df46/ss/Screenshot%202025-04-10%20223653.png)
 
 #### Patient IDs
 
-![patient-ids](https://i.imgur.com/VLS2gur.png)
-![patient-ids-staff](https://i.imgur.com/i8xLsJo.png)
-![patient-ids-student](https://i.imgur.com/grWSpLC.png)
+![patient-ids-add](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/c30ca374a1e72c82131a77f815341bdcc770df46/ss/Screenshot%202025-04-10%20223614.png)
+![patient-ids-staff](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/c30ca374a1e72c82131a77f815341bdcc770df46/ss/Screenshot%202025-04-10%20223626.png)
 
 ### 3. Doctors
 
 #### Doctor Login details (Email from Admin)
 
-![doctor-registered-email](https://i.imgur.com/Yi1kEhQ.png)
+![doctor-registered-email](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/c30ca374a1e72c82131a77f815341bdcc770df46/ss/Screenshot%202025-04-10%20221957.png)
 
 #### Login
 
