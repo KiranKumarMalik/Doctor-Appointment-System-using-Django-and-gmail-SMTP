@@ -149,7 +149,7 @@ The system is restricted to:
 
 #### Student (Next-of-kin) Profile Update
 
-![next-of-kin](https://i.imgur.com/qjopYZx.png)
+![next-of-kin](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/291b069d3c2c7a165dd169d43e1f5a9ae749ca65/ss/Screenshot%202025-04-11%20193025.png)
 
 #### Appointment Booking
 
