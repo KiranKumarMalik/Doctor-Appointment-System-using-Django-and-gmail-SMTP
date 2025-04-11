@@ -141,19 +141,7 @@ The system is restricted to:
 
 ##### Expired Reset Link
 
-![expired-link](https://i.imgur.com/ZK9AVgD.png)
-
-#### Student Dashboard - No appointments (Dark mode)
-
-![student-dashboard-dark](https://i.imgur.com/D33qcif.png)
-
-#### Student Dashboard - with appointments (Dark mode)
-
-![student-dashboard-dark&](https://i.imgur.com/TseCEaM.png)
-
-#### Student Dashboard - with appointments (Light mode)
-
-![student-dashboard-light&](https://i.imgur.com/4L0jKAh.png)
+![expired-link](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/0447c616879fad55db0bf76a17a1da33db9a8d6b/ss/Screenshot%202025-04-11%20113814.png)
 
 #### Student Profile Update
 
