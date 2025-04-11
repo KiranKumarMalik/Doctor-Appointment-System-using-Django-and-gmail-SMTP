@@ -305,7 +305,7 @@ The system is restricted to:
 ##### OTP Verification
 
 ![otp-verify-doctor](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/735aecedb4b0a9a139e547722acf8af1997240ce/ss/Screenshot%202025-04-10%20222021.png)
-![otp-verification-email](https://i.imgur.com/9tgEC4Y.png)
+![otp-verification-email](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/5264705d8ca2806a56c0080e1074d52e164dfcd7/ss/Screenshot%202025-04-11%20212650.png)
 
 ### Doctor Dashboard
 
