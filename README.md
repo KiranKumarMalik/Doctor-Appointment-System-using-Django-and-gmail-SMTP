@@ -191,11 +191,11 @@ The system is restricted to:
 
 ##### View all Appointments
 
-![view-all-student-appointments](https://i.imgur.com/kzAsZQ0.png)
+![view-all-student-appointments](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/f3f083fb1ced66cb48cea55f5d3014ed34d65f6e/ss/Screenshot%202025-04-10%20222853.png)
 
 ##### Manage all Appointments
 
-![manage-appointments](https://i.imgur.com/paga3xM.png)
+![manage-appointments](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/f3f083fb1ced66cb48cea55f5d3014ed34d65f6e/ss/Screenshot%202025-04-10%20222917.png)
 
 ##### View Appointment Details> by Appoint ID
 
