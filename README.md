@@ -220,8 +220,8 @@ The system is restricted to:
 ##### OTP Verification (if Login is successful)
 
 ![admin-otp-verification](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/b30c11ddf49d4f2488729b41f92b8e1315414376/ss/Screenshot%202025-04-10%20214748.png)
-![otp-email](https://i.imgur.com/i19dpHV.png)
-![otp-ver-failed](https://i.imgur.com/SV9rac1.png)
+![otp-email](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/9b5ed98fbc0a60677b2cb6b48484856b586e9468/ss/Screenshot%202025-04-11%20201946.png)
+![otp-ver-failed](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/9b5ed98fbc0a60677b2cb6b48484856b586e9468/ss/admin.png)
 
 > [!TIP]
 > You can directly log in as Admin (*Jazzmin Dashboard*) without the whole OTP verification by using the link "http://127.0.0.1:8000/admin/". You'll get the a different login page(as below) where you'll be prompted to enter your *Username* and *Password*; and that's it! You're logged in. Once logged in, you can navigate to the *Main Dashboard* (See other screenshots below).
