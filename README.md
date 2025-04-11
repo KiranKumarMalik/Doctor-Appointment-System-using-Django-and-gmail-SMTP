@@ -255,24 +255,24 @@ The system is restricted to:
 
 #### Manage all Appointments
 
-![manage-all-appointments](https://i.imgur.com/lazap0j.png)
-![manage-all-appoints-jazzmin](https://i.imgur.com/CPAYYr3.png)
+![manage-all-appointments](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/7248391f655951c2a74978e38e66ed7c2a851c88/ss/Screenshot%202025-04-10%20223357.png)
+![manage-all-appoints-jazzmin](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/8541cb6dd4195f3bc2bff120157b3362e2c9a636/ss/Screenshot%202025-04-10%20223513.png)
 
 #### View all Payments
 
-![admin-all-payments](https://i.imgur.com/rRrTTjl.png)
+![admin-all-payments](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/8541cb6dd4195f3bc2bff120157b3362e2c9a636/ss/Screenshot%202025-04-10%20223416.png)
 
 #### View all Payments Report
 
-![all-payments-report](https://i.imgur.com/199WyRd.png)
+![all-payments-report](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/8541cb6dd4195f3bc2bff120157b3362e2c9a636/ss/Screenshot%202025-04-11%20194813.png)
 
 #### Manage all Payments
 
-![all-payments-manage](https://i.imgur.com/Zt22Z2B.png)
+![all-payments-manage](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/8541cb6dd4195f3bc2bff120157b3362e2c9a636/ss/Screenshot%202025-04-10%20223527.png)
 
 #### Manage all Users
 
-![manage-all-users](https://i.imgur.com/uWaPoZp.png)
+![manage-all-users](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/8541cb6dd4195f3bc2bff120157b3362e2c9a636/ss/Screenshot%202025-04-10%20223540.png)
 ![deactivate-users](https://i.imgur.com/o7TqKPN.png)
 
 #### Doctor Registration
