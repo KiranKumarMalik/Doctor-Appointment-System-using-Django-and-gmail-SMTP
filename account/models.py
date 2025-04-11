@@ -13,6 +13,7 @@ class User(AbstractUser):
     GENDER_CHOICES = [
         ('Male', 'Male'),
         ('Female', 'Female'),
+        ('Other', 'Other'),
     ]
    
     PATIENT_TYPE_CHOICES = [
