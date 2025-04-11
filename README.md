@@ -203,7 +203,7 @@ The system is restricted to:
 
 ##### Appointment Report (by Appoint ID)
 
-![appointment-report-by-id](https://i.imgur.com/ONS6iIw.png)
+![appointment-report-by-id](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/b30c11ddf49d4f2488729b41f92b8e1315414376/ss/Screenshot%202025-04-11%20201004.png)
 
 #### Delete User Account Permanently!
 
@@ -215,12 +215,11 @@ The system is restricted to:
 
 ##### Login Page
 
-![admin-login-page](https://i.imgur.com/KK1k6Yu.png)
-![admin-login-failed](https://i.imgur.com/GEO3Kh1.png)
+![admin-login-page](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/b30c11ddf49d4f2488729b41f92b8e1315414376/ss/Screenshot%202025-04-10%20214722.png)
 
 ##### OTP Verification (if Login is successful)
 
-![admin-otp-verification](https://i.imgur.com/T0z7x7l.png)
+![admin-otp-verification](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/b30c11ddf49d4f2488729b41f92b8e1315414376/ss/Screenshot%202025-04-10%20214748.png)
 ![otp-email](https://i.imgur.com/i19dpHV.png)
 ![otp-ver-failed](https://i.imgur.com/SV9rac1.png)
 
