@@ -83,9 +83,9 @@ The system is restricted to:
 
 ➢ The system can show real data analytics (statistically) of appointments [Booked, Scheduled, Failed, Canceled, Completed, Closed], Payments [Mpesa transactions] and Active/Registered Patients [Student Cover, MediCare Cover-Staff]. See the screenshot below (Admin, Patient, & Doctor Dashboard).  
 
-![analytics-admin](https://i.imgur.com/j5jauE0.png)
-![patient-dashboard-analytics](https://i.imgur.com/TseCEaM.png)
-![doctor-dashboard-analytics](https://i.imgur.com/KFA7Viv.png)
+![analytics-admin](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/1ce58c1d0402fe83335d68883a4aa1897795400e/ss/admin.png)
+![patient-dashboard-analytics](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/1ce58c1d0402fe83335d68883a4aa1897795400e/ss/patient.png)
+![doctor-dashboard-analytics](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/1ce58c1d0402fe83335d68883a4aa1897795400e/ss/doctor.png)
 
 #### 11. Flexible Patient ID registration
 
