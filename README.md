@@ -273,7 +273,7 @@ The system is restricted to:
 #### Manage all Users
 
 ![manage-all-users](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/8541cb6dd4195f3bc2bff120157b3362e2c9a636/ss/Screenshot%202025-04-10%20223540.png)
-![deactivate-users](https://i.imgur.com/o7TqKPN.png)
+![deactivate-users](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/a7ce827ce8cfddcb320741be692951897b8584e2/ss/Screenshot%202025-04-11%20205405.png)
 
 #### Doctor Registration
 
