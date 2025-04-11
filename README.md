@@ -296,16 +296,15 @@ The system is restricted to:
 
 #### Doctor Login details (Email from Admin)
 
-![doctor-registered-email](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/c30ca374a1e72c82131a77f815341bdcc770df46/ss/Screenshot%202025-04-10%20221957.png)
+![doctor-registered-email](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/735aecedb4b0a9a139e547722acf8af1997240ce/ss/Screenshot%202025-04-11%20212321.png)
 
 #### Login
 
-![doctor-login](https://i.imgur.com/EK1ztH9.png)
-![doctor-invalid-login-creds](https://i.imgur.com/GEO3Kh1.png)
+![doctor-login](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/735aecedb4b0a9a139e547722acf8af1997240ce/ss/Screenshot%202025-04-10%20221957.png)
 
 ##### OTP Verification
 
-![otp-verify-doctor](https://i.imgur.com/qtPg7k3.png)
+![otp-verify-doctor](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/735aecedb4b0a9a139e547722acf8af1997240ce/ss/Screenshot%202025-04-10%20222021.png)
 ![otp-verification-email](https://i.imgur.com/9tgEC4Y.png)
 
 ### Doctor Dashboard
