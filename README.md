@@ -199,7 +199,7 @@ The system is restricted to:
 
 ##### View Appointment Details> by Appoint ID
 
-![appoint-id-details](https://i.imgur.com/exK9l5h.png)
+![appoint-id-details](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/c47d28960cd8ff65f315422e62a757258fa8d76a/ss/Screenshot%202025-04-11%20200446.png)
 
 ##### Appointment Report (by Appoint ID)
 
