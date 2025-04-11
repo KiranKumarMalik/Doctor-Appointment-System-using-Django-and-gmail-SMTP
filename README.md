@@ -145,7 +145,7 @@ The system is restricted to:
 
 #### Student Profile Update
 
-![student-profile](https://i.imgur.com/Ssx6oy3.png)
+![student-profile](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/b078ea8fedd693b57b2e13e8ba4141be6cc27f91/ss/Screenshot%202025-04-11%20114227.png)
 
 #### Student (Next-of-kin) Profile Update
 
