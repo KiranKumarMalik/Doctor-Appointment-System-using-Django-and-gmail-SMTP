@@ -324,23 +324,25 @@ The system is restricted to:
 
 ### Doctor Profile Update
 
-![doctor-profile-update](https://i.imgur.com/khhMR1O.png)
+![doctor-profile-update](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/77b00787a49c023b9a73cf9f04e238b4eea3775e/ss/Screenshot%202025-04-12%20084222.png)
+
+### Scheduled Appointments
+
+![doctor-scheduled-appointment](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/77b00787a49c023b9a73cf9f04e238b4eea3775e/ss/Screenshot%202025-04-10%20222251.png)
 
 ### Manage Appointments
 
-![doctor-manage-appointment](https://i.imgur.com/GKzHXuC.png)  
+![doctor-manage-appointment](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/77b00787a49c023b9a73cf9f04e238b4eea3775e/ss/Screenshot%202025-04-10%20222328.png)
+![doctor-action](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/77b00787a49c023b9a73cf9f04e238b4eea3775e/ss/Screenshot%202025-04-10%20222341.png)
+![doctor-appointment-close](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/77b00787a49c023b9a73cf9f04e238b4eea3775e/ss/Screenshot%202025-04-10%20222407.png)  
 
 ### View Closed Appointments
 
-![view-closed-appointments](https://i.imgur.com/3jhlhGW.png)
+![view-closed-appointments](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/77b00787a49c023b9a73cf9f04e238b4eea3775e/ss/Screenshot%202025-04-10%20222458.png)
 
-### View Appointment Details>by Appoint ID
+### Appointment Payment Receipt in Mail
 
-![view-appointment-by-id-doctor](https://i.imgur.com/SEYlwV1.png)
-
-### Close Appointment
-
-![doctor-close-appointment](https://i.imgur.com/RbaFOgc.png)
+![doctor-receipt-mail](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/77b00787a49c023b9a73cf9f04e238b4eea3775e/ss/Screenshot%202025-04-12%20083619.png)
 
 ## INSTALLATION
 
