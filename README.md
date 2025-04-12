@@ -750,11 +750,6 @@ You should get something like this (below):
 > [!CAUTION]
 > All users have an option to delete their account PERMANENTLY! If they so choose to do that, then, everything about them in the system is permanently deleted.
 
-## Video Demo of the system
-
-> [!NOTE]
-> To see a full implementation of the system, click [here](https://drive.google.com/file/d/1ymAbw7n1UYogrRrc1ILahWsgL54yYRdW/view?usp=drivesdk)
-
 ## Technologies used
 
 - **Backend:** Django
@@ -775,7 +770,7 @@ Contributions are welcome! Please follow these steps(below) to contribute:
 
 ## License
 
-This project is licensed under the MIT License. View License [here.](https://github.com/Lewismwaz/appoint_master/blob/main/MIT%20LICENSE.txt)  
+This project is licensed under the MIT License. View License [here.](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/92a8f6a5f02c4ef3d2d439b907511f9d59eed7fe/LICENSE)  
 
 More details about the MIT License can be found [here.](https://choosealicense.com/licenses/mit/)
 
