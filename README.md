@@ -317,13 +317,10 @@ The system is restricted to:
 
 ![doctor-email-new-appointment](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/1b875179397a8585878dd84762ba7e04fcd21346/ss/Screenshot%202025-04-12%20083259.png)
 
-##### Canceled Appointment
-
-![canceled-appointment-doctor-email](https://i.imgur.com/3hPMTBz.png)
 
 ##### Closed Appointment
 
-![closed-appointment-doctor](https://i.imgur.com/ImkU8Py.png)
+![closed-appointment-doctor](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/d7b960c9cff144c12490890c6615744540d925b3/ss/Screenshot%202025-04-12%20083552.png)
 
 ### Doctor Profile Update
 
