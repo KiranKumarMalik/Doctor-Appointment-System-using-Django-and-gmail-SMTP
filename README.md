@@ -207,7 +207,7 @@ The system is restricted to:
 
 #### Delete User Account Permanently!
 
-![Delete-user-account-permanently](https://i.imgur.com/Z02z19n.png)
+![Delete-user-account-permanently](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/eeaa8c96ef0c1930422ad4d71d94c3029ae1adf0/ss/Screenshot%202025-04-12%20085523.png)
 
 ### 2. Admin
 
