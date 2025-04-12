@@ -311,15 +311,7 @@ The system is restricted to:
 
 ##### Dark Mode
 
-![doctor-dashboard-dark1](https://i.imgur.com/KFA7Viv.png)
-![doctor-dashboard-dark2](https://i.imgur.com/rk1oJz3.png)
-
-##### Light Mode
-
-![doctor-dashboard-light1](https://i.imgur.com/9GaBAJL.png)
-![doctor-dashboard-light2](https://i.imgur.com/DjvjHNR.png)  
-
-### Doctor Emails
+![doctor-dashboard-dark1](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/29a8a2238abc0e08fe4acd607de7f133bb09e91b/ss/doctor.png)
 
 ##### New Appointment
 
