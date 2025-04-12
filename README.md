@@ -315,7 +315,7 @@ The system is restricted to:
 
 ##### New Appointment
 
-![doctor-email-new-appointment](https://i.imgur.com/4tScJ5Z.png)
+![doctor-email-new-appointment](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP/blob/1b875179397a8585878dd84762ba7e04fcd21346/ss/Screenshot%202025-04-12%20083259.png)
 
 ##### Canceled Appointment
 
