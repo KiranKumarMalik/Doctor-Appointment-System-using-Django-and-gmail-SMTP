@@ -783,7 +783,7 @@ More details about the MIT License can be found [here.](https://choosealicense.c
 
 For any inquiries, please contact:
 
-- Email - eappointmaster@gmail.com
-- GitHub - [@Lewismwaz](https://github.com/Lewismwaz)  
+- Email - malikkiran413@gmail.com
+- GitHub - [@Kirankumarmalik](https://github.com/KiranKumarMalik)  
 
-[Appoint Master](https://github.com/Lewismwaz/appoint_master)**©** 2024, All Rights Reserved
+[Doctor Appointment](https://github.com/KiranKumarMalik/Doctor-Appointment-System-using-Django-and-gmail-SMTP?tab=readme-ov-file)**©** 2024, All Rights Reserved
